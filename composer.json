@@ -1,0 +1,23 @@
+{
+    "name": "willhoffmann/zf-module-layout",
+    "description": "ZfModuleLayouts is a ZF2 module for making module-specific layouts",
+    "type": "MIT",
+    "license": "BSD-3-Clause",
+    "keywords": [ "zf2", "zf3", "module layouts"],
+    "homepage": "https://github.com/willhoffmann/ZfModuleLayouts",
+    "authors": [
+        {
+            "name": "William Hoffmann",
+            "email": "williamhoffmann@outlook.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^5.6 || ^7.0"
+    },
+    "autoload": {
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}

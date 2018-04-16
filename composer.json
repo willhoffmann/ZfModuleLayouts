@@ -19,5 +19,10 @@
         "classmap": [
             "./Module.php"
         ]
+    },
+    "extra": {
+        "zf": {
+          "module": "ZfModuleLayouts"
+        }
     }
 }
